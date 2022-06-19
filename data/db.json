@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "my blog one",
+      "body": "aaaaaaaaaaaaaaaaaaaaa",
+      "author": "pavi",
+      "id": 1
+    },
+    {
+      "title": "my blog three",
+      "body": "ccccccccccccccccccc",
+      "author": "prasa",
+      "id": 3
+    },
+    {
+      "title": "my blog four",
+      "body": "ddddddddddddddddddddd",
+      "author": "tharu",
+      "id": 4
+    },
+    {
+      "title": "kiths",
+      "body": " akfkmhm fmgkmg",
+      "author": "pavi",
+      "id": 5
+    },
+    {
+      "title": " tharu",
+      "body": " akamfmf dgmbb",
+      "author": "pavi",
+      "id": 6
+    }
+  ]
+}
